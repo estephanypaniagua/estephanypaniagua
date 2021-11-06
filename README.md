@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Estephany Paniagua</h1>
-<h3 align="center">A passionate QA | fullstack from Peru</h3>
+<h3 align="center">A passionate QA | fullstack developer from Peru</h3>
 
 - 🌱 I’m currently learning **MERN stack and Java**
 
